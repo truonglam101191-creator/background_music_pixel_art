@@ -1,5 +1,10 @@
 [
     {
+        "name": "lucky_cat_maneki_neko.jpeg",
+        "category": "Animals",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/lucky_cat_maneki_neko.jpeg"
+    },
+    {
         "name": "cute_shiba_inu.jpeg",
         "category": "Animals",
         "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/cute_shiba_inu.jpeg"
@@ -23,6 +28,31 @@
         "name": "majestic_wolf.jpeg",
         "category": "Animals",
         "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/majestic_wolf.jpeg"
+    },
+    {
+        "name": "cute_axolotl.jpeg",
+        "category": "Animals",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/cute_axolotl.jpeg"
+    },
+    {
+        "name": "cute_sea_turtle.jpeg",
+        "category": "Animals",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/cute_sea_turtle.jpeg"
+    },
+    {
+        "name": "golden_hamster.jpeg",
+        "category": "Animals",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/golden_hamster.jpeg"
+    },
+    {
+        "name": "cute_koala.jpeg",
+        "category": "Animals",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/cute_koala.jpeg"
+    },
+    {
+        "name": "majestic_lion.jpeg",
+        "category": "Animals",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/majestic_lion.jpeg"
     },
     {
         "name": "cute_chubby_corgi_dog.jpeg",
@@ -55,9 +85,39 @@
         "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/japanese_ramen.jpeg"
     },
     {
+        "name": "matcha_parfait.jpeg",
+        "category": "Food",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/matcha_parfait.jpeg"
+    },
+    {
+        "name": "chocolate_cupcake.jpeg",
+        "category": "Food",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/chocolate_cupcake.jpeg"
+    },
+    {
         "name": "strawberry_shortcake.jpeg",
         "category": "Food",
         "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/strawberry_shortcake.jpeg"
+    },
+    {
+        "name": "french_croissant.jpeg",
+        "category": "Food",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/french_croissant.jpeg"
+    },
+    {
+        "name": "colorful_macarons.jpeg",
+        "category": "Food",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/colorful_macarons.jpeg"
+    },
+    {
+        "name": "cheesy_pizza_slice.jpeg",
+        "category": "Food",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/cheesy_pizza_slice.jpeg"
+    },
+    {
+        "name": "bubble_waffle.jpeg",
+        "category": "Food",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/bubble_waffle.jpeg"
     },
     {
         "name": "sushi_bento.jpeg",
@@ -75,14 +135,34 @@
         "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/mount_fuji_sakura.jpeg"
     },
     {
+        "name": "kyoto_autumn_pagoda.jpeg",
+        "category": "Nature",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/kyoto_autumn_pagoda.jpeg"
+    },
+    {
         "name": "cozy_forest_cottage.jpeg",
         "category": "Nature",
         "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/cozy_forest_cottage.jpeg"
     },
     {
+        "name": "sea_cliff_lighthouse.jpeg",
+        "category": "Nature",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/sea_cliff_lighthouse.jpeg"
+    },
+    {
         "name": "tropical_sunset_beach.jpeg",
         "category": "Nature",
         "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/tropical_sunset_beach.jpeg"
+    },
+    {
+        "name": "autumn_camp_tent.jpeg",
+        "category": "Nature",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/autumn_camp_tent.jpeg"
+    },
+    {
+        "name": "dutch_windmill_tulips.jpeg",
+        "category": "Nature",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/dutch_windmill_tulips.jpeg"
     },
     {
         "name": "enchanted_mushroom_glen.jpeg",
@@ -95,6 +175,21 @@
         "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/floating_sky_island.jpeg"
     },
     {
+        "name": "zen_bamboo_garden.jpeg",
+        "category": "Nature",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/zen_bamboo_garden.jpeg"
+    },
+    {
+        "name": "phoenix_fire_bird.jpeg",
+        "category": "Fantasy",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/phoenix_fire_bird.jpeg"
+    },
+    {
+        "name": "crystal_pegasus.jpeg",
+        "category": "Fantasy",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/crystal_pegasus.jpeg"
+    },
+    {
         "name": "baby_dragon.jpeg",
         "category": "Fantasy",
         "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/baby_dragon.jpeg"
@@ -103,6 +198,16 @@
         "name": "magic_potion_bottle.jpeg",
         "category": "Fantasy",
         "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/magic_potion_bottle.jpeg"
+    },
+    {
+        "name": "magical_crystal_ball.jpeg",
+        "category": "Fantasy",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/magical_crystal_ball.jpeg"
+    },
+    {
+        "name": "fairy_in_bottle.jpeg",
+        "category": "Fantasy",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/fairy_in_bottle.jpeg"
     },
     {
         "name": "golden_treasure_chest.jpeg",
@@ -115,14 +220,19 @@
         "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/wizard_spellbook.jpeg"
     },
     {
-        "name": "cyberpunk_flying_car.jpeg",
-        "category": "Sci-Fi",
-        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/cyberpunk_flying_car.jpeg"
+        "name": "ancient_katana_sword.jpeg",
+        "category": "Fantasy",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/ancient_katana_sword.jpeg"
     },
     {
-        "name": "pixel_astronaut.jpeg",
-        "category": "Sci-Fi",
-        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/pixel_astronaut.jpeg"
+        "name": "retro_handheld_console.jpeg",
+        "category": "Retro",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/retro_handheld_console.jpeg"
+    },
+    {
+        "name": "arcade_claw_machine.jpeg",
+        "category": "Retro",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/arcade_claw_machine.jpeg"
     },
     {
         "name": "retro_arcade_machine.jpeg",
@@ -135,9 +245,34 @@
         "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/cozy_lofi_room.jpeg"
     },
     {
+        "name": "cyberpunk_flying_car.jpeg",
+        "category": "Sci-Fi",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/cyberpunk_flying_car.jpeg"
+    },
+    {
+        "name": "pixel_astronaut.jpeg",
+        "category": "Sci-Fi",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/pixel_astronaut.jpeg"
+    },
+    {
+        "name": "space_station_orbit.jpeg",
+        "category": "Sci-Fi",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/space_station_orbit.jpeg"
+    },
+    {
+        "name": "cyberpunk_samurai_mask.jpeg",
+        "category": "Sci-Fi",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/cyberpunk_samurai_mask.jpeg"
+    },
+    {
         "name": "retro_camper_van.jpeg",
         "category": "Vehicles",
         "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/retro_camper_van.jpeg"
+    },
+    {
+        "name": "teddy_bear_picnic.jpeg",
+        "category": "Toys",
+        "url": "https://raw.githubusercontent.com/truonglam101191-creator/background_music_pixel_art/main/teddy_bear_picnic.jpeg"
     },
     {
         "name": "box_3d_1.jpeg",
